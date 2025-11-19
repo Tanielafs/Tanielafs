@@ -52,4 +52,9 @@ Desenvolver habilidades sólidas em TI, suporte e desenvolvimento, construindo p
 ---
 
 Obrigada por visitar meu perfil!
-<p align="center"> <strong>Continue explorando... o código nunca para de evoluir! ✨</strong><br><br> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjMDFhb2NjaG5yalJ4Y2M5a3I1Yml4ZjdxYXYxcHU4ODJyYXZmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="160" /> </p>
+
+<p align="center">
+  <strong>Continue explorando... o código nunca para de evoluir! ✨</strong><br><br>
+  <!-- GIF pixel art Space Invaders (auto-anima sem clique) -->
+  <img src="./assets/space-invaders.gif" width="220" alt="Space Invaders pixel art animado" />
+</p>
