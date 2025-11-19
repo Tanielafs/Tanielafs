@@ -1,0 +1,55 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1800&pause=800&color=f8c681&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+sou+Taniela!;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing Animation" />
+</h1>
+
+<p align="center">Profissional de Suporte Técnico N1 | Desenvolvedora Full Stack em formação</p>
+
+---
+
+## Sobre mim
+
+Atuo como Suporte Técnico N1 e estou em formação para me tornar Desenvolvedora Full Stack.
+Estudo os fundamentos essenciais de TI, incluindo lógica de programação, redes de computadores e desenvolvimento web.
+
+---
+ Tecnologias que estudo
+<div align="center">
+  
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+</div>
+
+
+
+## O que estou estudando no momento
+
+📌 HTML, CSS, JavaScript <br>
+📌 Git e GitHub <br>
+📌 Fundamentos de TI <br>
+📌 Redes de Computadores <br>
+📌 Lógica de Programação <br>
+📌 Node.js e React (começando) <br>
+
+---
+
+## Como me encontrar
+
+- **Email:** tanielaf.santos@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/taniela-freitas-371782249/ 
+- **GitHub:** você está aqui :)
+
+---
+
+## Objetivo
+
+Desenvolver habilidades sólidas em TI, suporte e desenvolvimento, construindo projetos cada vez mais completos e profissionais.
+
+---
+
+Obrigada por visitar meu perfil!
+<p align="center"> <strong>Continue explorando... o código nunca para de evoluir! ✨</strong><br><br> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjMDFhb2NjaG5yalJ4Y2M5a3I1Yml4ZjdxYXYxcHU4ODJyYXZmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="160" /> </p>
