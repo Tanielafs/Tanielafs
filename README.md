@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1800&pause=800&color=f8c681&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+sou+Taniela!;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1800&pause=800&color=f8c681&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+sou+Taniela!;Bem-vindo(a)+ao+meu+GitHub!"        alt="Typing Animation" />
 </h1>
-
 <p align="center">Profissional de Suporte Técnico N1 | Desenvolvedora Full Stack em formação</p>
 
 ---
@@ -13,15 +12,11 @@ Estudo os fundamentos essenciais de TI, incluindo lógica de programação, rede
 
 ---
  Tecnologias que estudo
-<div align="center">
-  
+ 
+<div align="center">  
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
 </div>
 
 
@@ -55,6 +50,5 @@ Obrigada por visitar meu perfil!
 
 <p align="center">
   <strong>Continue explorando... o código nunca para de evoluir! ✨</strong><br><br>
-  <!-- GIF pixel art Space Invaders (auto-anima sem clique) -->
-  <img src="./assets/space-invaders.gif" width="220" alt="Space Invaders pixel art animado" />
+  <img src="https://rubberchickengames.com/wp-content/uploads/2016/02/Space-Invaders.gif" img width="200" height="200" alt="image"/>
 </p>
