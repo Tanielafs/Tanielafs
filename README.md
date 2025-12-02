@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Atuo como Suporte Técnico N1 e estou em formação para me tornar Desenvolvedora Full Stack.
+Atuo como Suporte Técnico N1 e estou em formação para me tornar Desenvolvedora Front-end.
 Estudo os fundamentos essenciais de TI, incluindo lógica de programação, redes de computadores e desenvolvimento web.
 
 ---
