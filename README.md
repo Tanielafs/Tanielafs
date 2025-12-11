@@ -35,6 +35,8 @@ Estudo os fundamentos essenciais de TI, incluindo lógica de programação, rede
 🔸 Fundamentos de TI <br>
 🔸 Redes de Computadores <br>
 🔸 Lógica de Programação <br>
+🔸 JAVA básico <br>
+🔸 Python básico <br>
 🔸 Node.js e React (começando) <br>
 
 ---
