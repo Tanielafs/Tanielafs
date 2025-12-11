@@ -30,17 +30,6 @@ Estudo os fundamentos essenciais de TI, incluindo lógica de programação, rede
 
 
 
-## O que estou estudando no momento
-
-🔸 HTML, CSS, JavaScript <br>
-🔸 Git e GitHub <br>
-🔸 Fundamentos de TI <br>
-🔸 Redes de Computadores <br>
-🔸 Lógica de Programação <br>
-🔸 JAVA básico <br>
-🔸 Python básico <br>
-🔸 Node.js e React (começando) <br>
-
 ---
 
 ## Como me encontrar
