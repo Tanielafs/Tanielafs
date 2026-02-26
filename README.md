@@ -37,7 +37,8 @@ Estudo os fundamentos essenciais de TI, incluindo lógica de programação, rede
 ## Como me encontrar
 
 - **Email:** tanielaf.santos@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/taniela-freitas-371782249/ 
+- **LinkedIn:** https://www.linkedin.com/in/taniela-freitas-371782249/
+- **Portifólio:** https://taniela-dev.vercel.app/
 
 ---
 
